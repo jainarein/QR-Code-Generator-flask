@@ -37,13 +37,3 @@ QR-Code-Generator/
 └── templates/
     └── index.html
 ```
-
-## 🌐 Demo Screenshot
-
-(You can add a screenshot here after running it)
-
-## 🧠 Learnings
-
-- Using Flask to handle form data
-- QR code generation in Python
-- Serving downloadable files with Flask
